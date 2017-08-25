@@ -1,6 +1,6 @@
 int main() {
     // Declare a variable named 'input_string' to hold our input.
-    char input_string[105]; 
+    char input_string[105];
     
     // Read a full line of input from stdin and save it to our variable, input_string.
     gets (input_string); 
